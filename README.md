@@ -14,7 +14,7 @@ Información del Proyecto:
 
 📌 Asesor Externo: Dr. Gerardo Ulises Díaz Aragón (guda.diaz.gd@gmail.com)
 
-Agradecimientos especiales al Consejo Nacional de Ciencia y Tecnología (CONACYT) por la beca otorgada durante dos años para la realización de esta investigación, mediante el registro 1255395.
+Agradecimientos especiales al Consejo Nacional de Humanidades, Ciencia y Tecnología (CONAHCYT) por la beca otorgada durante dos años para la realización de esta investigación, mediante el registro 1255395.
 
 📌 Nota: Este repositorio tiene como finalidad compartir el conocimiento y permitir la replicabilidad de los experimentos, proporcionando acceso abierto a la información utilizada en esta investigación. Se alienta a la comunidad a contribuir con mejoras y comentarios.
 

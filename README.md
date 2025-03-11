@@ -1,1 +1,1 @@
-# Reconstrucci-n-e-implementaci-n-de-trayectorias
+# Reconstruccion e implementacion de trayectorias
